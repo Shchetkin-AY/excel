@@ -11,5 +11,6 @@
     "arrow-parens": "off",
     "comma-dangle": "off",
     "require-jsdoc": "off",
+
   }
 }
